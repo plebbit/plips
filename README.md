@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Plebbit has rebranded to [Bitsocial](https://bitsocial.net).** This repository is archived and preserved for historical reference.
+>
+> For current protocol specifications and proposals, see [Bitsocial Improvement Proposals (BSIPs)](https://bsips.bitsocial.net) and the [BSIPs repository](https://github.com/bitsocialnet/BSIPs).
+>
+> Find current projects at [@bitsocialnet](https://github.com/bitsocialnet).
+
 # PLIPs
 
 PLIPs stand for **Plebbit Improvement Proposals**.
